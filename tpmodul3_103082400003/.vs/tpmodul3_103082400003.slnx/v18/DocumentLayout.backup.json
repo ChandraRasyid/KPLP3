@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week3\\tpmodul3_103082400003\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB8CD1-9E85-4E92-A3F3-140A35E181E0}|tpmodul3_103082400003\\tpmodul3_103082400003.csproj|c:\\users\\asus\\onedrive - telkom university\\documents\\kuliah semester 4\\konstruksi perangkat lunak\\praktikum\\code\\pendahuluan\\week3\\tpmodul3_103082400003\\tpmodul3_103082400003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB8CD1-9E85-4E92-A3F3-140A35E181E0}|tpmodul3_103082400003\\tpmodul3_103082400003.csproj|solutionrelative:tpmodul3_103082400003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week3\\tpmodul3_103082400003\\tpmodul3_103082400003\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul3_103082400003\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week3\\tpmodul3_103082400003\\tpmodul3_103082400003\\Program.cs",
+              "RelativeToolTip": "tpmodul3_103082400003\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:59:48.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
